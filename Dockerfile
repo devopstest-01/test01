@@ -1,4 +1,5 @@
 FROM nginx
+FROM ubuntu:18.04
 
 EXPOSE 80
 
